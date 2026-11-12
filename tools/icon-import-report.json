@@ -1,0 +1,1450 @@
+{
+  "names": [
+    "steps",
+    "flag",
+    "pin",
+    "flame",
+    "stairs",
+    "heart",
+    "battery",
+    "bolt",
+    "drop",
+    "lungs",
+    "clock",
+    "gauge",
+    "mountain",
+    "weight",
+    "sun",
+    "thermo",
+    "cloud",
+    "wind",
+    "down",
+    "up",
+    "bt",
+    "alarm",
+    "bell",
+    "dnd",
+    "rise",
+    "set",
+    "oxygen",
+    "body",
+    "stress",
+    "bike",
+    "run",
+    "humidity",
+    "partly",
+    "rain",
+    "snow",
+    "storm",
+    "fog",
+    "unknown",
+    "move",
+    "weather_sun"
+  ],
+  "sizes": {
+    "16": {
+      "steps": {
+        "id": 0,
+        "source": "png",
+        "master": "steps.png",
+        "sha256": "51d1123a66cf6e2b4819006ca19961dd87a88fe0b7c012776ad4788e74b63854",
+        "bbox": [
+          2,
+          1,
+          13,
+          15
+        ],
+        "threshold": 128,
+        "extent": 14,
+        "hints_applied": true,
+        "set": [],
+        "clear": []
+      },
+      "flag": {
+        "id": 1,
+        "source": "original",
+        "bbox": [
+          3,
+          2,
+          14,
+          14
+        ]
+      },
+      "pin": {
+        "id": 2,
+        "source": "original",
+        "bbox": [
+          3,
+          1,
+          13,
+          15
+        ]
+      },
+      "flame": {
+        "id": 3,
+        "source": "png",
+        "master": "flame.png",
+        "sha256": "4f48661645bc813db96a493ddf5cf5f5df4a790fb40af5145f0d0e808af50e1b",
+        "bbox": [
+          2,
+          1,
+          14,
+          15
+        ],
+        "threshold": 128,
+        "extent": 14,
+        "hints_applied": true,
+        "set": [
+          [
+            8,
+            1
+          ]
+        ],
+        "clear": []
+      },
+      "stairs": {
+        "id": 4,
+        "source": "original",
+        "bbox": [
+          2,
+          3,
+          13,
+          13
+        ]
+      },
+      "heart": {
+        "id": 5,
+        "source": "png",
+        "master": "heart.png",
+        "sha256": "6a29c2781689fd253f859745629e63ddb4ff4f560da67165baa4a19abda98621",
+        "bbox": [
+          1,
+          2,
+          15,
+          14
+        ],
+        "threshold": 128,
+        "extent": 14,
+        "hints_applied": true,
+        "set": [],
+        "clear": [
+          [
+            7,
+            3
+          ],
+          [
+            8,
+            3
+          ]
+        ]
+      },
+      "battery": {
+        "id": 6,
+        "source": "png",
+        "master": "battery.png",
+        "sha256": "e20c9c3eb473e5cf56e38288f5c877fcac4c5f32d50a71904ba0354272c08a71",
+        "bbox": [
+          1,
+          3,
+          15,
+          12
+        ],
+        "threshold": 128,
+        "extent": 14,
+        "hints_applied": true,
+        "set": [
+          [
+            8,
+            4
+          ],
+          [
+            7,
+            5
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            9,
+            7
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            7,
+            9
+          ]
+        ],
+        "clear": [
+          [
+            8,
+            4
+          ],
+          [
+            9,
+            4
+          ],
+          [
+            7,
+            5
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            9,
+            7
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            9,
+            8
+          ],
+          [
+            7,
+            9
+          ],
+          [
+            8,
+            9
+          ],
+          [
+            7,
+            10
+          ]
+        ]
+      },
+      "bolt": {
+        "id": 7,
+        "source": "original",
+        "bbox": [
+          3,
+          1,
+          13,
+          15
+        ]
+      },
+      "drop": {
+        "id": 8,
+        "source": "original",
+        "bbox": [
+          3,
+          1,
+          13,
+          15
+        ]
+      },
+      "lungs": {
+        "id": 9,
+        "source": "original",
+        "bbox": [
+          2,
+          1,
+          14,
+          14
+        ]
+      },
+      "clock": {
+        "id": 10,
+        "source": "original",
+        "bbox": [
+          3,
+          3,
+          13,
+          13
+        ]
+      },
+      "gauge": {
+        "id": 11,
+        "source": "original",
+        "bbox": [
+          3,
+          3,
+          13,
+          14
+        ]
+      },
+      "mountain": {
+        "id": 12,
+        "source": "png",
+        "master": "mountain.png",
+        "sha256": "d61d6018eed6d119cb3095f9384584ef596909775df13a0c4dcee1cda4a68ab0",
+        "bbox": [
+          1,
+          2,
+          15,
+          14
+        ],
+        "threshold": 128,
+        "extent": 14,
+        "hints_applied": true,
+        "set": [
+          [
+            10,
+            8
+          ]
+        ],
+        "clear": [
+          [
+            7,
+            8
+          ]
+        ]
+      },
+      "weight": {
+        "id": 13,
+        "source": "original",
+        "bbox": [
+          3,
+          2,
+          13,
+          14
+        ]
+      },
+      "sun": {
+        "id": 14,
+        "source": "png",
+        "master": "sun.png",
+        "sha256": "a396bccdc35177ad68a875dab2e6eb06ddcf8cde29f3be152ae7d44bd816755e",
+        "bbox": [
+          1,
+          1,
+          15,
+          15
+        ],
+        "threshold": 128,
+        "extent": 14,
+        "hints_applied": true,
+        "set": [
+          [
+            8,
+            4
+          ],
+          [
+            9,
+            4
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            9,
+            7
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            9,
+            8
+          ],
+          [
+            8,
+            9
+          ],
+          [
+            7,
+            10
+          ]
+        ],
+        "clear": [
+          [
+            7,
+            8
+          ]
+        ]
+      },
+      "thermo": {
+        "id": 15,
+        "source": "original",
+        "bbox": [
+          3,
+          2,
+          9,
+          14
+        ]
+      },
+      "cloud": {
+        "id": 16,
+        "source": "original",
+        "bbox": [
+          2,
+          2,
+          15,
+          12
+        ]
+      },
+      "wind": {
+        "id": 17,
+        "source": "original",
+        "bbox": [
+          2,
+          3,
+          13,
+          13
+        ]
+      },
+      "down": {
+        "id": 18,
+        "source": "original",
+        "bbox": [
+          3,
+          1,
+          13,
+          15
+        ]
+      },
+      "up": {
+        "id": 19,
+        "source": "original",
+        "bbox": [
+          3,
+          1,
+          13,
+          15
+        ]
+      },
+      "bt": {
+        "id": 20,
+        "source": "original",
+        "bbox": [
+          3,
+          1,
+          13,
+          15
+        ]
+      },
+      "alarm": {
+        "id": 21,
+        "source": "original",
+        "bbox": [
+          2,
+          2,
+          14,
+          15
+        ]
+      },
+      "bell": {
+        "id": 22,
+        "source": "original",
+        "bbox": [
+          3,
+          1,
+          13,
+          15
+        ]
+      },
+      "dnd": {
+        "id": 23,
+        "source": "original",
+        "bbox": [
+          1,
+          1,
+          15,
+          15
+        ]
+      },
+      "rise": {
+        "id": 24,
+        "source": "original",
+        "bbox": [
+          1,
+          1,
+          15,
+          13
+        ]
+      },
+      "set": {
+        "id": 25,
+        "source": "original",
+        "bbox": [
+          1,
+          1,
+          15,
+          13
+        ]
+      },
+      "oxygen": {
+        "id": 26,
+        "source": "original",
+        "bbox": [
+          3,
+          3,
+          14,
+          13
+        ]
+      },
+      "body": {
+        "id": 27,
+        "source": "original",
+        "bbox": [
+          2,
+          3,
+          13,
+          13
+        ]
+      },
+      "stress": {
+        "id": 28,
+        "source": "original",
+        "bbox": [
+          2,
+          4,
+          14,
+          13
+        ]
+      },
+      "bike": {
+        "id": 29,
+        "source": "original",
+        "bbox": [
+          2,
+          3,
+          14,
+          13
+        ]
+      },
+      "run": {
+        "id": 30,
+        "source": "original",
+        "bbox": [
+          3,
+          2,
+          13,
+          14
+        ]
+      },
+      "humidity": {
+        "id": 31,
+        "source": "original",
+        "bbox": [
+          3,
+          3,
+          13,
+          13
+        ]
+      },
+      "partly": {
+        "id": 32,
+        "source": "original",
+        "bbox": [
+          1,
+          1,
+          13,
+          13
+        ]
+      },
+      "rain": {
+        "id": 33,
+        "source": "original",
+        "bbox": [
+          2,
+          2,
+          14,
+          13
+        ]
+      },
+      "snow": {
+        "id": 34,
+        "source": "original",
+        "bbox": [
+          3,
+          2,
+          13,
+          14
+        ]
+      },
+      "storm": {
+        "id": 35,
+        "source": "original",
+        "bbox": [
+          2,
+          2,
+          14,
+          14
+        ]
+      },
+      "fog": {
+        "id": 36,
+        "source": "original",
+        "bbox": [
+          1,
+          4,
+          14,
+          12
+        ]
+      },
+      "unknown": {
+        "id": 37,
+        "source": "original",
+        "bbox": [
+          5,
+          3,
+          12,
+          13
+        ]
+      },
+      "move": {
+        "id": 38,
+        "source": "original",
+        "bbox": [
+          3,
+          2,
+          12,
+          14
+        ]
+      },
+      "weather_sun": {
+        "id": 39,
+        "source": "original",
+        "bbox": [
+          1,
+          1,
+          15,
+          15
+        ]
+      }
+    },
+    "24": {
+      "steps": {
+        "id": 0,
+        "source": "png",
+        "master": "steps.png",
+        "sha256": "51d1123a66cf6e2b4819006ca19961dd87a88fe0b7c012776ad4788e74b63854",
+        "bbox": [
+          4,
+          2,
+          19,
+          22
+        ],
+        "threshold": 128,
+        "extent": 20,
+        "hints_applied": true,
+        "set": [],
+        "clear": []
+      },
+      "flag": {
+        "id": 1,
+        "source": "original",
+        "bbox": [
+          5,
+          2,
+          22,
+          22
+        ]
+      },
+      "pin": {
+        "id": 2,
+        "source": "original",
+        "bbox": [
+          5,
+          1,
+          19,
+          23
+        ]
+      },
+      "flame": {
+        "id": 3,
+        "source": "png",
+        "master": "flame.png",
+        "sha256": "4f48661645bc813db96a493ddf5cf5f5df4a790fb40af5145f0d0e808af50e1b",
+        "bbox": [
+          3,
+          2,
+          20,
+          22
+        ],
+        "threshold": 128,
+        "extent": 20,
+        "hints_applied": true,
+        "set": [
+          [
+            11,
+            2
+          ]
+        ],
+        "clear": []
+      },
+      "stairs": {
+        "id": 4,
+        "source": "original",
+        "bbox": [
+          2,
+          4,
+          19,
+          21
+        ]
+      },
+      "heart": {
+        "id": 5,
+        "source": "png",
+        "master": "heart.png",
+        "sha256": "6a29c2781689fd253f859745629e63ddb4ff4f560da67165baa4a19abda98621",
+        "bbox": [
+          2,
+          3,
+          22,
+          20
+        ],
+        "threshold": 128,
+        "extent": 20,
+        "hints_applied": true,
+        "set": [],
+        "clear": [
+          [
+            11,
+            5
+          ],
+          [
+            12,
+            5
+          ]
+        ]
+      },
+      "battery": {
+        "id": 6,
+        "source": "png",
+        "master": "battery.png",
+        "sha256": "e20c9c3eb473e5cf56e38288f5c877fcac4c5f32d50a71904ba0354272c08a71",
+        "bbox": [
+          2,
+          6,
+          22,
+          18
+        ],
+        "threshold": 128,
+        "extent": 20,
+        "hints_applied": true,
+        "set": [
+          [
+            11,
+            7
+          ],
+          [
+            12,
+            7
+          ],
+          [
+            11,
+            8
+          ],
+          [
+            12,
+            8
+          ],
+          [
+            13,
+            8
+          ],
+          [
+            11,
+            9
+          ],
+          [
+            12,
+            9
+          ],
+          [
+            10,
+            10
+          ],
+          [
+            11,
+            10
+          ],
+          [
+            12,
+            10
+          ],
+          [
+            9,
+            11
+          ],
+          [
+            10,
+            11
+          ],
+          [
+            11,
+            11
+          ],
+          [
+            12,
+            11
+          ],
+          [
+            13,
+            11
+          ],
+          [
+            14,
+            11
+          ],
+          [
+            9,
+            12
+          ],
+          [
+            10,
+            12
+          ],
+          [
+            11,
+            12
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            13,
+            12
+          ],
+          [
+            11,
+            13
+          ],
+          [
+            12,
+            13
+          ],
+          [
+            11,
+            14
+          ]
+        ],
+        "clear": [
+          [
+            12,
+            7
+          ],
+          [
+            13,
+            7
+          ],
+          [
+            11,
+            8
+          ],
+          [
+            12,
+            8
+          ],
+          [
+            13,
+            8
+          ],
+          [
+            11,
+            9
+          ],
+          [
+            12,
+            9
+          ],
+          [
+            10,
+            10
+          ],
+          [
+            11,
+            10
+          ],
+          [
+            9,
+            11
+          ],
+          [
+            10,
+            11
+          ],
+          [
+            11,
+            11
+          ],
+          [
+            12,
+            11
+          ],
+          [
+            13,
+            11
+          ],
+          [
+            14,
+            11
+          ],
+          [
+            11,
+            12
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            13,
+            12
+          ],
+          [
+            11,
+            13
+          ],
+          [
+            12,
+            13
+          ],
+          [
+            10,
+            14
+          ],
+          [
+            11,
+            14
+          ],
+          [
+            10,
+            15
+          ]
+        ]
+      },
+      "bolt": {
+        "id": 7,
+        "source": "original",
+        "bbox": [
+          4,
+          1,
+          20,
+          23
+        ]
+      },
+      "drop": {
+        "id": 8,
+        "source": "original",
+        "bbox": [
+          4,
+          1,
+          20,
+          23
+        ]
+      },
+      "lungs": {
+        "id": 9,
+        "source": "original",
+        "bbox": [
+          2,
+          1,
+          22,
+          22
+        ]
+      },
+      "clock": {
+        "id": 10,
+        "source": "original",
+        "bbox": [
+          4,
+          4,
+          20,
+          20
+        ]
+      },
+      "gauge": {
+        "id": 11,
+        "source": "original",
+        "bbox": [
+          4,
+          4,
+          20,
+          22
+        ]
+      },
+      "mountain": {
+        "id": 12,
+        "source": "png",
+        "master": "mountain.png",
+        "sha256": "d61d6018eed6d119cb3095f9384584ef596909775df13a0c4dcee1cda4a68ab0",
+        "bbox": [
+          2,
+          3,
+          22,
+          20
+        ],
+        "threshold": 128,
+        "extent": 20,
+        "hints_applied": true,
+        "set": [
+          [
+            8,
+            12
+          ]
+        ],
+        "clear": [
+          [
+            10,
+            12
+          ]
+        ]
+      },
+      "weight": {
+        "id": 13,
+        "source": "original",
+        "bbox": [
+          4,
+          2,
+          20,
+          22
+        ]
+      },
+      "sun": {
+        "id": 14,
+        "source": "png",
+        "master": "sun.png",
+        "sha256": "a396bccdc35177ad68a875dab2e6eb06ddcf8cde29f3be152ae7d44bd816755e",
+        "bbox": [
+          2,
+          2,
+          22,
+          22
+        ],
+        "threshold": 128,
+        "extent": 20,
+        "hints_applied": true,
+        "set": [
+          [
+            12,
+            7
+          ],
+          [
+            13,
+            7
+          ],
+          [
+            11,
+            8
+          ],
+          [
+            12,
+            8
+          ],
+          [
+            13,
+            8
+          ],
+          [
+            11,
+            9
+          ],
+          [
+            12,
+            9
+          ],
+          [
+            10,
+            10
+          ],
+          [
+            11,
+            10
+          ],
+          [
+            9,
+            11
+          ],
+          [
+            10,
+            11
+          ],
+          [
+            11,
+            11
+          ],
+          [
+            12,
+            11
+          ],
+          [
+            13,
+            11
+          ],
+          [
+            14,
+            11
+          ],
+          [
+            11,
+            12
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            13,
+            12
+          ],
+          [
+            11,
+            13
+          ],
+          [
+            12,
+            13
+          ],
+          [
+            10,
+            14
+          ],
+          [
+            11,
+            14
+          ],
+          [
+            10,
+            15
+          ],
+          [
+            9,
+            16
+          ],
+          [
+            10,
+            16
+          ]
+        ],
+        "clear": [
+          [
+            12,
+            10
+          ],
+          [
+            10,
+            12
+          ],
+          [
+            11,
+            15
+          ]
+        ]
+      },
+      "thermo": {
+        "id": 15,
+        "source": "original",
+        "bbox": [
+          5,
+          2,
+          14,
+          22
+        ]
+      },
+      "cloud": {
+        "id": 16,
+        "source": "original",
+        "bbox": [
+          2,
+          2,
+          23,
+          18
+        ]
+      },
+      "wind": {
+        "id": 17,
+        "source": "original",
+        "bbox": [
+          2,
+          3,
+          21,
+          20
+        ]
+      },
+      "down": {
+        "id": 18,
+        "source": "original",
+        "bbox": [
+          4,
+          1,
+          20,
+          23
+        ]
+      },
+      "up": {
+        "id": 19,
+        "source": "original",
+        "bbox": [
+          4,
+          1,
+          20,
+          23
+        ]
+      },
+      "bt": {
+        "id": 20,
+        "source": "original",
+        "bbox": [
+          5,
+          1,
+          20,
+          23
+        ]
+      },
+      "alarm": {
+        "id": 21,
+        "source": "original",
+        "bbox": [
+          1,
+          2,
+          23,
+          23
+        ]
+      },
+      "bell": {
+        "id": 22,
+        "source": "original",
+        "bbox": [
+          4,
+          1,
+          20,
+          23
+        ]
+      },
+      "dnd": {
+        "id": 23,
+        "source": "original",
+        "bbox": [
+          0,
+          1,
+          23,
+          24
+        ]
+      },
+      "rise": {
+        "id": 24,
+        "source": "original",
+        "bbox": [
+          1,
+          1,
+          23,
+          21
+        ]
+      },
+      "set": {
+        "id": 25,
+        "source": "original",
+        "bbox": [
+          1,
+          1,
+          23,
+          21
+        ]
+      },
+      "oxygen": {
+        "id": 26,
+        "source": "original",
+        "bbox": [
+          4,
+          4,
+          22,
+          21
+        ]
+      },
+      "body": {
+        "id": 27,
+        "source": "original",
+        "bbox": [
+          2,
+          5,
+          20,
+          19
+        ]
+      },
+      "stress": {
+        "id": 28,
+        "source": "original",
+        "bbox": [
+          2,
+          6,
+          22,
+          19
+        ]
+      },
+      "bike": {
+        "id": 29,
+        "source": "original",
+        "bbox": [
+          2,
+          5,
+          22,
+          20
+        ]
+      },
+      "run": {
+        "id": 30,
+        "source": "original",
+        "bbox": [
+          5,
+          2,
+          20,
+          22
+        ]
+      },
+      "humidity": {
+        "id": 31,
+        "source": "original",
+        "bbox": [
+          4,
+          4,
+          20,
+          21
+        ]
+      },
+      "partly": {
+        "id": 32,
+        "source": "original",
+        "bbox": [
+          1,
+          1,
+          20,
+          19
+        ]
+      },
+      "rain": {
+        "id": 33,
+        "source": "original",
+        "bbox": [
+          2,
+          2,
+          22,
+          20
+        ]
+      },
+      "snow": {
+        "id": 34,
+        "source": "original",
+        "bbox": [
+          3,
+          2,
+          21,
+          22
+        ]
+      },
+      "storm": {
+        "id": 35,
+        "source": "original",
+        "bbox": [
+          2,
+          2,
+          22,
+          22
+        ]
+      },
+      "fog": {
+        "id": 36,
+        "source": "original",
+        "bbox": [
+          1,
+          6,
+          22,
+          19
+        ]
+      },
+      "unknown": {
+        "id": 37,
+        "source": "original",
+        "bbox": [
+          8,
+          5,
+          19,
+          20
+        ]
+      },
+      "move": {
+        "id": 38,
+        "source": "original",
+        "bbox": [
+          5,
+          2,
+          19,
+          22
+        ]
+      },
+      "weather_sun": {
+        "id": 39,
+        "source": "original",
+        "bbox": [
+          1,
+          1,
+          23,
+          23
+        ]
+      }
+    }
+  }
+}

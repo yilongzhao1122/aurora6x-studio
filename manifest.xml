@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iq:manifest xmlns:iq="http://www.garmin.com/xml/connectiq" version="3">
+ <iq:application id="a3e61611af4c4aa29a8dd5f0c7b6f061" type="watchface" name="@Strings.AppName" entry="AuroraApp" launcherIcon="@Drawables.LauncherIcon" minApiLevel="3.3.1" version="3.3.2">
+  <iq:products><iq:product id="fenix6xpro"/></iq:products>
+  <iq:permissions><iq:uses-permission id="SensorHistory"/><iq:uses-permission id="Positioning"/><iq:uses-permission id="UserProfile"/></iq:permissions>
+  <iq:languages><iq:language>eng</iq:language><iq:language>zhs</iq:language></iq:languages>
+  <iq:barrels/>
+ </iq:application>
+</iq:manifest>

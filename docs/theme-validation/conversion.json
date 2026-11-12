@@ -1,0 +1,282 @@
+[
+  {
+    "id": 13,
+    "name": "薄荷疾跑",
+    "master_sha256": "2e39ebc5edd82d65ab72ad8c05c3189fb43e7b046d0ec6f9ef2f229a0118b84e",
+    "panel_sha256": "235a364d8c158f471ca7fc477f3debda94a54402985f4eb04bcc7b00177a308d",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 9,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 14,
+    "name": "冰川疾速",
+    "master_sha256": "b591d0de228978e6a82db8ac347f2e9e72082adb1557854d13c788241a2d484f",
+    "panel_sha256": "f2c9adf6d1fc6326d6305fd19aa4bfc03874504b9f3c280369d36f2faed65733",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 7,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 15,
+    "name": "珊瑚冲刺",
+    "master_sha256": "d2029014e45b4ec9da72057884ab4e65b0716294648fe9a3f14d37f77884a561",
+    "panel_sha256": "c7df9a4fc2a8873b2532f291579e324f9f4c7c0f480066648e2e4627da889c9f",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 7,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 16,
+    "name": "紫晶飞驰",
+    "master_sha256": "6eb23ecde4d3bb8ef9a0c2b6f218548e8bdaa82a7a61b2204af03d38638cb4e3",
+    "panel_sha256": "4ed46664d155ca758e0e786d02f51b7bce0228d97524b505b6e4325b03fd55a4",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 5,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 17,
+    "name": "香槟等高",
+    "master_sha256": "ca85a49ba23f9b63c6ed6b72663e2b670eaf3740b58d81546789641bfcb6180b",
+    "panel_sha256": "8ce4dd4da28415acde714057f13d66d7c66b5b2d876837fb9d6a4f3ca8d33cfc",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 7,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 18,
+    "name": "青柠赛道",
+    "master_sha256": "9ee58a108582c6fd2912822098b5215472d777bd26772327bd03a237cf14d744",
+    "panel_sha256": "c21a7c4bb033f9c50a11f16d7e812351a3ceb3815cca25670094d61e00a46986",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 10,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 19,
+    "name": "落日流霞",
+    "master_sha256": "1dab23ff4719458a66ccd1a964dca578b50d467caa3673de84501c9bbb0fb2ad",
+    "panel_sha256": "0ec8f1a191225721d52f598e7baf7bb9f6f31be45f18d741e7c1086690e057f4",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 7,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 20,
+    "name": "极地蓝图",
+    "master_sha256": "c1ee65ef0f1589349de35e89553653472cab5614aa1afc1a66557bf1abbb531a",
+    "panel_sha256": "5ba5590db2ecb969baf9e5e87eaf8890345a0daa70572a0038e43de3787e2441",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 8,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 21,
+    "name": "羽球风翼",
+    "master_sha256": "3b75c33673edbb3348cf546733771433e178cb4f8c44cceb1c3064d58a49c268",
+    "panel_sha256": "89419164585c38b452b7f4588a0b791241ce4fbb3070ac218d269272066da2d8",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 10,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 22,
+    "name": "跑道弯弧",
+    "master_sha256": "c046311a833b7de9c36c8503ce3a0830d1aea2b4ea8b11309e3ea48c2a56767a",
+    "panel_sha256": "ab865b5840d58cfb165a195e820ad191cf6d7d0b90412d46137752f029dacdf6",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 7,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 23,
+    "name": "骑行飞轮",
+    "master_sha256": "e36bef77599abbc8433502d6d380c343947ef4e7969f2775ade5659dcf5857e4",
+    "panel_sha256": "83a161ca655708eefafa16f572cf31a30148fca95327746c9de9822179a941e4",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 10,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 24,
+    "name": "山脊越野",
+    "master_sha256": "91a29ed6e0076a46e8a95ab64e7879c7689ea96175f8a7e2056c2746d4597925",
+    "panel_sha256": "2603e981a9c3369bccff83b271bf7493797e36c458fa99cb2a8c34b17677e3b4",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 10,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 25,
+    "name": "泳池涟漪",
+    "master_sha256": "935fd20b7ce21dfd29226a10909177e985f38aa4e81d1ead45adf015af5448b5",
+    "panel_sha256": "754c3a1ed93d495afeeeea65fad85def4d4bd5ded7d219a5aba6e4ce7466ac9a",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 8,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 26,
+    "name": "网球旋弧",
+    "master_sha256": "8878f94137fb1201ff21a16dc3fb13fe3a15e0fb3a9e2aac2b5feed91708de83",
+    "panel_sha256": "53a8b00034620cff50187e9c3547e8ce1536c6e9e3ec958751d82e2304942467",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 7,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 27,
+    "name": "篮球弧场",
+    "master_sha256": "c687746e132728d5fa0addff6a47660f1b342f2cdb200fe88c9d6a8868ff4db8",
+    "panel_sha256": "89981b0151eb1a1019a7669e82a7a86f9e088bec05088d01db035d994f259b9a",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 7,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 28,
+    "name": "绿茵动势",
+    "master_sha256": "fa0bc1138bd1062484f7fc359b15fc7d1f55c8f5fd4b4092aa0e23f89429217b",
+    "panel_sha256": "2f5243050e0cbff1fb64b988b9be822b40bf6be5ab89546370677d076605dd5c",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 7,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 29,
+    "name": "雪道双痕",
+    "master_sha256": "7ffc0748005829c39c4716408b7128dcd54c59b428d2fae222abbcf4fe030b2e",
+    "panel_sha256": "d1e420b44498dd894d60da65521434afb647baaa07f9952b5323c52dc3ca5811",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 6,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 30,
+    "name": "划艇流波",
+    "master_sha256": "fe5d75170b6d08c9c9deb5dabfe2914cf7368682af681276a8529afea9f0733e",
+    "panel_sha256": "484ccdabfdc951256628cc730201a2dbf967dd0a4dc5008ee0d9599e78526ca0",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 7,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 31,
+    "name": "越野罗盘",
+    "master_sha256": "779e87db4d95a0a7972f13245fb3ad88a53a0ada3ebca2abce3648437bd1e5e4",
+    "panel_sha256": "35a4d068bfb546e0c981ffc53e5fdd2e92db0bf5b1bc0ba9fdad03aebf584afb",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 8,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  },
+  {
+    "id": 32,
+    "name": "胜利桂冠",
+    "master_sha256": "10f7e211a442a7476dbe4633c9b6b7863c33520590883d6af6a065a88dea6bc1",
+    "panel_sha256": "e69c04a08487a4ccc5a021eab3f5d4de3ee3f00dc98dcb8b740746c4fda6ba57",
+    "dimensions": [
+      250,
+      115
+    ],
+    "palette_colors": 8,
+    "estimated_indexed_bytes": 14375,
+    "generation": "ChatGPT Image, center-composition edit",
+    "black_text_contrast_min_target": 7
+  }
+]

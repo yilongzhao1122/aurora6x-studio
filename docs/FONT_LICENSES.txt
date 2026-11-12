@@ -1,0 +1,12 @@
+Aurora Studio bitmap font subsets
+
+Latin and horizontally condensed clock glyphs: Liberation Sans Bold, SIL Open Font License 1.1.
+Chinese glyph subset: Noto Sans CJK Bold, SIL Open Font License 1.1.
+Generated derivative bitmap fonts use the family name AuroraStudio.
+Full font license notices: docs/licenses/Liberation-OFL.txt and Noto-CJK-OFL.txt.
+Calendar data generator: lunar-python 1.4.9 (MIT), https://github.com/6tail/lunar-python.
+No third-party source screenshots, activation mechanisms or proprietary fonts are embedded.
+Application source and newly drawn panel/icon assets are MIT; font subsets retain OFL.
+
+Moon ephemeris generator: Astronomy Engine 2.1.19 (MIT), https://github.com/cosinekitty/astronomy.
+Generated icons are original pixel glyphs, MIT; no third-party icon font is embedded.

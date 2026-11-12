@@ -1,0 +1,632 @@
+{
+  "groups": [
+    [
+      "A0",
+      "A1",
+      "A2",
+      "A3",
+      "A4"
+    ],
+    [
+      "C0",
+      "C1",
+      "C2",
+      "C4",
+      "C3",
+      "C5",
+      "C6"
+    ],
+    [
+      "B2",
+      "Language",
+      "Backdrop",
+      "SecondOffset",
+      "TimeTypeface",
+      "DataTypeface"
+    ]
+  ],
+  "resources": {
+    "MenuGroup0": [
+      [
+        "A0",
+        "顶部数据",
+        "Top strip",
+        0
+      ],
+      [
+        "A1",
+        "左侧图标",
+        "Left icon",
+        0
+      ],
+      [
+        "A2",
+        "上方中央数据",
+        "Upper center",
+        1
+      ],
+      [
+        "A3",
+        "右侧图标",
+        "Right icon",
+        1
+      ],
+      [
+        "A4",
+        "右上组合数据",
+        "Paired data",
+        0
+      ]
+    ],
+    "MenuGroup1": [
+      [
+        "C0",
+        "彩条进度",
+        "Progress bars",
+        0
+      ],
+      [
+        "C1",
+        "左下圆环",
+        "Lower left ring",
+        0
+      ],
+      [
+        "C2",
+        "第一行左侧",
+        "Row 1 left",
+        0
+      ],
+      [
+        "C4",
+        "第一行右侧",
+        "Row 1 right",
+        1
+      ],
+      [
+        "C3",
+        "第二行左侧",
+        "Row 2 left",
+        12
+      ],
+      [
+        "C5",
+        "第二行右侧",
+        "Row 2 right",
+        3
+      ],
+      [
+        "C6",
+        "底部数据",
+        "Bottom strip",
+        2
+      ]
+    ],
+    "MenuGroup2": [
+      [
+        "B2",
+        "秒钟显示",
+        "Seconds",
+        0
+      ],
+      [
+        "Language",
+        "界面语言",
+        "Language",
+        0
+      ],
+      [
+        "Backdrop",
+        "表盘背景",
+        "Backdrop",
+        2
+      ],
+      [
+        "SecondOffset",
+        "第二时间时差",
+        "Second time offset",
+        -8
+      ],
+      [
+        "TimeTypeface",
+        "时间数字字体",
+        "Time typeface",
+        0
+      ],
+      [
+        "DataTypeface",
+        "数据数字字体",
+        "Data typeface",
+        2
+      ]
+    ],
+    "MenuOptionsA0": [
+      [
+        "电池电量",
+        "Battery"
+      ],
+      [
+        "系统图标",
+        "System icons"
+      ],
+      [
+        "天气气温",
+        "Temperature"
+      ],
+      [
+        "农历",
+        "Lunar date"
+      ],
+      [
+        "节气",
+        "Solar terms"
+      ],
+      [
+        "第二时间",
+        "Second time"
+      ],
+      [
+        "下个日出日落",
+        "Next sunrise / sunset"
+      ]
+    ],
+    "MenuOptionsA1": [
+      [
+        "天气",
+        "Weather"
+      ],
+      [
+        "风向",
+        "Wind direction"
+      ],
+      [
+        "久坐提醒",
+        "Move bar"
+      ],
+      [
+        "月相",
+        "Moon phase"
+      ]
+    ],
+    "MenuOptionsA2": [
+      [
+        "湿度与降水概率",
+        "Humidity / Rain"
+      ],
+      [
+        "天气气温",
+        "Temperature"
+      ],
+      [
+        "农历",
+        "Lunar date"
+      ],
+      [
+        "节气",
+        "Solar terms"
+      ],
+      [
+        "第二时间",
+        "Second time"
+      ]
+    ],
+    "MenuOptionsA3": [
+      [
+        "天气",
+        "Weather"
+      ],
+      [
+        "风向",
+        "Wind direction"
+      ],
+      [
+        "久坐提醒",
+        "Move bar"
+      ],
+      [
+        "月相",
+        "Moon phase"
+      ]
+    ],
+    "MenuOptionsA4": [
+      [
+        "最低最高心率",
+        "Heart rate low / high"
+      ],
+      [
+        "步数与目标",
+        "Steps / Goal"
+      ],
+      [
+        "总消耗热量",
+        "Total calories"
+      ]
+    ],
+    "MenuOptionsC0": [
+      [
+        "电池电量",
+        "Battery"
+      ],
+      [
+        "步数",
+        "Steps"
+      ],
+      [
+        "身体电量",
+        "Body Battery"
+      ],
+      [
+        "压力",
+        "Stress"
+      ]
+    ],
+    "MenuOptionsC1": [
+      [
+        "心率",
+        "Heart rate"
+      ],
+      [
+        "身体电量",
+        "Body Battery"
+      ],
+      [
+        "压力",
+        "Stress"
+      ],
+      [
+        "电池电量",
+        "Battery"
+      ]
+    ],
+    "MenuOptionsMetrics": [
+      [
+        "步数",
+        "Steps"
+      ],
+      [
+        "目标步数",
+        "Steps goal"
+      ],
+      [
+        "里程",
+        "Distance (km)"
+      ],
+      [
+        "总热量",
+        "Total calories"
+      ],
+      [
+        "台阶",
+        "Floors"
+      ],
+      [
+        "心率",
+        "Heart rate"
+      ],
+      [
+        "身体电量",
+        "Body Battery"
+      ],
+      [
+        "压力",
+        "Stress"
+      ],
+      [
+        "血氧",
+        "Oxygen (%)"
+      ],
+      [
+        "呼吸频率",
+        "Respiration"
+      ],
+      [
+        "恢复时间",
+        "Recovery (hours)"
+      ],
+      [
+        "海平面气压",
+        "Sea-level pressure"
+      ],
+      [
+        "海拔",
+        "Altitude (m)"
+      ],
+      [
+        "体重",
+        "Weight (kg)"
+      ],
+      [
+        "太阳能强度",
+        "Solar intensity"
+      ],
+      [
+        "当天活动分钟",
+        "Active minutes today"
+      ],
+      [
+        "本周活动分钟",
+        "Active minutes week"
+      ],
+      [
+        "骑行最大摄氧量",
+        "Cycling VO2max"
+      ],
+      [
+        "跑步最大摄氧量",
+        "Running VO2max"
+      ],
+      [
+        "月跑量已有记录",
+        "Month run: known records"
+      ],
+      [
+        "电池电量",
+        "Battery (%)"
+      ],
+      [
+        "天气气温",
+        "Temperature"
+      ],
+      [
+        "湿度",
+        "Humidity (%)"
+      ],
+      [
+        "降水概率",
+        "Rain probability"
+      ],
+      [
+        "风速",
+        "Wind (m/s)"
+      ],
+      [
+        "体感温度",
+        "Feels like"
+      ],
+      [
+        "最低气温",
+        "Low temperature"
+      ],
+      [
+        "最高气温",
+        "High temperature"
+      ]
+    ],
+    "MenuOptionsC6": [
+      [
+        "系统图标",
+        "System icons"
+      ],
+      [
+        "天气气温",
+        "Temperature"
+      ],
+      [
+        "农历",
+        "Lunar date"
+      ],
+      [
+        "节气",
+        "Solar terms"
+      ],
+      [
+        "第二时间",
+        "Second time"
+      ],
+      [
+        "下个日出日落",
+        "Next sunrise / sunset"
+      ],
+      [
+        "用户自定义内容",
+        "Custom text"
+      ]
+    ],
+    "MenuOptionsB2": [
+      [
+        "抬手显示秒钟",
+        "Seconds while awake"
+      ],
+      [
+        "隐藏秒钟",
+        "Hide seconds"
+      ]
+    ],
+    "MenuOptionsLanguage": [
+      [
+        "中文",
+        "Chinese"
+      ],
+      [
+        "英文",
+        "English"
+      ]
+    ],
+    "MenuOptionsBackdrop": [
+      [
+        "玫红渐变",
+        "Rose"
+      ],
+      [
+        "冰蓝折面",
+        "Ice facets"
+      ],
+      [
+        "银白流线",
+        "Silver lines"
+      ],
+      [
+        "香槟渐变",
+        "Champagne"
+      ],
+      [
+        "自定义背景色",
+        "Custom color"
+      ],
+      [
+        "薄荷切片",
+        "Mint slices"
+      ],
+      [
+        "珊瑚色块",
+        "Coral blocks"
+      ],
+      [
+        "紫晶轨道",
+        "Amethyst"
+      ],
+      [
+        "柠檬赛道",
+        "Citrus track"
+      ],
+      [
+        "冰川网格",
+        "Glacier grid"
+      ],
+      [
+        "落日拼色",
+        "Sunset blocks"
+      ],
+      [
+        "纸白蓝图",
+        "Paper blueprint"
+      ],
+      [
+        "青紫双翼",
+        "Cyan lilac"
+      ],
+      [
+        "AI13 薄荷疾跑",
+        "Mint Aero"
+      ],
+      [
+        "AI14 冰川疾速",
+        "Glacier Ribbon"
+      ],
+      [
+        "AI15 珊瑚冲刺",
+        "Coral Sprint"
+      ],
+      [
+        "AI16 紫晶飞驰",
+        "Amethyst Orbit"
+      ],
+      [
+        "AI17 香槟等高",
+        "Champagne Contour"
+      ],
+      [
+        "AI18 青柠赛道",
+        "Lime Circuit"
+      ],
+      [
+        "AI19 落日流霞",
+        "Sunset Flow"
+      ],
+      [
+        "AI20 极地蓝图",
+        "Polar Blueprint"
+      ],
+      [
+        "AI21 羽球风翼",
+        "Shuttle Wings"
+      ],
+      [
+        "AI22 跑道弯弧",
+        "Running Lanes"
+      ],
+      [
+        "AI23 骑行飞轮",
+        "Cycling Orbit"
+      ],
+      [
+        "AI24 山脊越野",
+        "Mountain Trail"
+      ],
+      [
+        "AI25 泳池涟漪",
+        "Swim Current"
+      ],
+      [
+        "AI26 网球旋弧",
+        "Tennis Spin"
+      ],
+      [
+        "AI27 篮球弧场",
+        "Court Arc"
+      ],
+      [
+        "AI28 绿茵动势",
+        "Football Motion"
+      ],
+      [
+        "AI29 雪道双痕",
+        "Ski Lines"
+      ],
+      [
+        "AI30 划艇流波",
+        "Rowing Flow"
+      ],
+      [
+        "AI31 越野罗盘",
+        "Trail Compass"
+      ],
+      [
+        "AI32 胜利桂冠",
+        "Victory Laurel"
+      ]
+    ],
+    "MenuOptionsTimeTypeface": [
+      [
+        "Bebas Neue",
+        "Bebas Neue"
+      ],
+      [
+        "Rajdhani Bold",
+        "Rajdhani Bold"
+      ],
+      [
+        "Roboto Bold",
+        "Roboto Bold"
+      ],
+      [
+        "Nunito Bold",
+        "Nunito Bold"
+      ],
+      [
+        "Aurora Digital",
+        "Aurora Digital"
+      ],
+      [
+        "JetBrains Mono Bold",
+        "JetBrains Mono Bold"
+      ]
+    ],
+    "MenuOptionsDataTypeface": [
+      [
+        "Bebas Neue",
+        "Bebas Neue"
+      ],
+      [
+        "Rajdhani Bold",
+        "Rajdhani Bold"
+      ],
+      [
+        "Roboto Bold",
+        "Roboto Bold"
+      ],
+      [
+        "Nunito Bold",
+        "Nunito Bold"
+      ],
+      [
+        "Aurora Digital",
+        "Aurora Digital"
+      ],
+      [
+        "JetBrains Mono Bold",
+        "JetBrains Mono Bold"
+      ]
+    ]
+  }
+}

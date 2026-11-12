@@ -1,0 +1,19 @@
+<resources>
+<jsonData id="MenuGroup0" filename="MenuGroup0.json"/>
+<jsonData id="MenuGroup1" filename="MenuGroup1.json"/>
+<jsonData id="MenuGroup2" filename="MenuGroup2.json"/>
+<jsonData id="MenuOptionsA0" filename="MenuOptionsA0.json"/>
+<jsonData id="MenuOptionsA1" filename="MenuOptionsA1.json"/>
+<jsonData id="MenuOptionsA2" filename="MenuOptionsA2.json"/>
+<jsonData id="MenuOptionsA3" filename="MenuOptionsA3.json"/>
+<jsonData id="MenuOptionsA4" filename="MenuOptionsA4.json"/>
+<jsonData id="MenuOptionsC0" filename="MenuOptionsC0.json"/>
+<jsonData id="MenuOptionsC1" filename="MenuOptionsC1.json"/>
+<jsonData id="MenuOptionsMetrics" filename="MenuOptionsMetrics.json"/>
+<jsonData id="MenuOptionsC6" filename="MenuOptionsC6.json"/>
+<jsonData id="MenuOptionsB2" filename="MenuOptionsB2.json"/>
+<jsonData id="MenuOptionsLanguage" filename="MenuOptionsLanguage.json"/>
+<jsonData id="MenuOptionsBackdrop" filename="MenuOptionsBackdrop.json"/>
+<jsonData id="MenuOptionsTimeTypeface" filename="MenuOptionsTimeTypeface.json"/>
+<jsonData id="MenuOptionsDataTypeface" filename="MenuOptionsDataTypeface.json"/>
+</resources>

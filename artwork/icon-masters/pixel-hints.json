@@ -1,0 +1,628 @@
+{
+  "battery": {
+    "sha256": "e20c9c3eb473e5cf56e38288f5c877fcac4c5f32d50a71904ba0354272c08a71",
+    "sizes": {
+      "16": {
+        "extent": 14,
+        "threshold": 128,
+        "set": [
+          [
+            8,
+            4
+          ],
+          [
+            7,
+            5
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            9,
+            7
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            7,
+            9
+          ]
+        ],
+        "clear": [
+          [
+            8,
+            4
+          ],
+          [
+            9,
+            4
+          ],
+          [
+            7,
+            5
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            9,
+            7
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            9,
+            8
+          ],
+          [
+            7,
+            9
+          ],
+          [
+            8,
+            9
+          ],
+          [
+            7,
+            10
+          ]
+        ],
+        "note": "Hint the transparent bolt as a zigzag rather than a cross; keep the terminal detached."
+      },
+      "24": {
+        "extent": 20,
+        "threshold": 128,
+        "set": [
+          [
+            11,
+            7
+          ],
+          [
+            12,
+            7
+          ],
+          [
+            11,
+            8
+          ],
+          [
+            12,
+            8
+          ],
+          [
+            13,
+            8
+          ],
+          [
+            11,
+            9
+          ],
+          [
+            12,
+            9
+          ],
+          [
+            10,
+            10
+          ],
+          [
+            11,
+            10
+          ],
+          [
+            12,
+            10
+          ],
+          [
+            9,
+            11
+          ],
+          [
+            10,
+            11
+          ],
+          [
+            11,
+            11
+          ],
+          [
+            12,
+            11
+          ],
+          [
+            13,
+            11
+          ],
+          [
+            14,
+            11
+          ],
+          [
+            9,
+            12
+          ],
+          [
+            10,
+            12
+          ],
+          [
+            11,
+            12
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            13,
+            12
+          ],
+          [
+            11,
+            13
+          ],
+          [
+            12,
+            13
+          ],
+          [
+            11,
+            14
+          ]
+        ],
+        "clear": [
+          [
+            12,
+            7
+          ],
+          [
+            13,
+            7
+          ],
+          [
+            11,
+            8
+          ],
+          [
+            12,
+            8
+          ],
+          [
+            13,
+            8
+          ],
+          [
+            11,
+            9
+          ],
+          [
+            12,
+            9
+          ],
+          [
+            10,
+            10
+          ],
+          [
+            11,
+            10
+          ],
+          [
+            9,
+            11
+          ],
+          [
+            10,
+            11
+          ],
+          [
+            11,
+            11
+          ],
+          [
+            12,
+            11
+          ],
+          [
+            13,
+            11
+          ],
+          [
+            14,
+            11
+          ],
+          [
+            11,
+            12
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            13,
+            12
+          ],
+          [
+            11,
+            13
+          ],
+          [
+            12,
+            13
+          ],
+          [
+            10,
+            14
+          ],
+          [
+            11,
+            14
+          ],
+          [
+            10,
+            15
+          ]
+        ],
+        "note": "Redraw the negative 24px bolt as one edge-connected zigzag with an extended diagonal tip."
+      }
+    }
+  },
+  "flame": {
+    "sha256": "4f48661645bc813db96a493ddf5cf5f5df4a790fb40af5145f0d0e808af50e1b",
+    "sizes": {
+      "16": {
+        "extent": 14,
+        "threshold": 128,
+        "set": [
+          [
+            8,
+            1
+          ]
+        ],
+        "clear": [],
+        "note": "Recover the tall flame tip lost at the binary threshold; keep the internal teardrop hole."
+      },
+      "24": {
+        "extent": 20,
+        "threshold": 128,
+        "set": [
+          [
+            11,
+            2
+          ]
+        ],
+        "clear": [],
+        "note": "Recover the tall source flame tip independently at 24px."
+      }
+    }
+  },
+  "heart": {
+    "sha256": "6a29c2781689fd253f859745629e63ddb4ff4f560da67165baa4a19abda98621",
+    "sizes": {
+      "16": {
+        "extent": 14,
+        "threshold": 128,
+        "set": [],
+        "clear": [
+          [
+            7,
+            3
+          ],
+          [
+            8,
+            3
+          ]
+        ],
+        "note": "Deepen the central notch by one pixel; retain separate lobes."
+      },
+      "24": {
+        "extent": 20,
+        "threshold": 128,
+        "set": [],
+        "clear": [
+          [
+            11,
+            5
+          ],
+          [
+            12,
+            5
+          ]
+        ],
+        "note": "Retain the source notch at the larger native size."
+      }
+    }
+  },
+  "mountain": {
+    "sha256": "d61d6018eed6d119cb3095f9384584ef596909775df13a0c4dcee1cda4a68ab0",
+    "sizes": {
+      "16": {
+        "extent": 14,
+        "threshold": 128,
+        "set": [
+          [
+            10,
+            8
+          ]
+        ],
+        "clear": [
+          [
+            7,
+            8
+          ]
+        ],
+        "note": "Remove a pinhole on the right peak and open the main snow saddle."
+      },
+      "24": {
+        "extent": 20,
+        "threshold": 128,
+        "set": [
+          [
+            8,
+            12
+          ]
+        ],
+        "clear": [
+          [
+            10,
+            12
+          ]
+        ],
+        "note": "Simplify a small snow-ridge cavity while keeping both open peak interiors."
+      }
+    }
+  },
+  "steps": {
+    "sha256": "51d1123a66cf6e2b4819006ca19961dd87a88fe0b7c012776ad4788e74b63854",
+    "sizes": {
+      "16": {
+        "extent": 14,
+        "threshold": 128,
+        "note": "Two separate soles retained; no pixel correction needed after inspection."
+      },
+      "24": {
+        "extent": 20,
+        "threshold": 128,
+        "note": "Rebuilt directly from the master, retaining the heel indentations."
+      }
+    }
+  },
+  "sun": {
+    "sha256": "a396bccdc35177ad68a875dab2e6eb06ddcf8cde29f3be152ae7d44bd816755e",
+    "sizes": {
+      "16": {
+        "extent": 14,
+        "threshold": 128,
+        "set": [
+          [
+            8,
+            4
+          ],
+          [
+            9,
+            4
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            9,
+            7
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            9,
+            8
+          ],
+          [
+            8,
+            9
+          ],
+          [
+            7,
+            10
+          ]
+        ],
+        "clear": [
+          [
+            7,
+            8
+          ]
+        ],
+        "note": "Give the inner white bolt a seven-pixel zigzag; retain a clear gap to the ring."
+      },
+      "24": {
+        "extent": 20,
+        "threshold": 128,
+        "set": [
+          [
+            12,
+            7
+          ],
+          [
+            13,
+            7
+          ],
+          [
+            11,
+            8
+          ],
+          [
+            12,
+            8
+          ],
+          [
+            13,
+            8
+          ],
+          [
+            11,
+            9
+          ],
+          [
+            12,
+            9
+          ],
+          [
+            10,
+            10
+          ],
+          [
+            11,
+            10
+          ],
+          [
+            9,
+            11
+          ],
+          [
+            10,
+            11
+          ],
+          [
+            11,
+            11
+          ],
+          [
+            12,
+            11
+          ],
+          [
+            13,
+            11
+          ],
+          [
+            14,
+            11
+          ],
+          [
+            11,
+            12
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            13,
+            12
+          ],
+          [
+            11,
+            13
+          ],
+          [
+            12,
+            13
+          ],
+          [
+            10,
+            14
+          ],
+          [
+            11,
+            14
+          ],
+          [
+            10,
+            15
+          ],
+          [
+            9,
+            16
+          ],
+          [
+            10,
+            16
+          ]
+        ],
+        "clear": [
+          [
+            12,
+            10
+          ],
+          [
+            10,
+            12
+          ],
+          [
+            11,
+            15
+          ]
+        ],
+        "note": "Hint the white 24px bolt independently; preserve an open gap around the ring."
+      }
+    }
+  }
+}

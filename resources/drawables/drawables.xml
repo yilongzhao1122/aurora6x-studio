@@ -1,0 +1,357 @@
+<drawables>
+  <bitmap id="LauncherIcon" filename="icon.png" />
+  <bitmap id="Panel0" filename="panel0.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AA55AA</color>
+      <color>AAAAAA</color>
+      <color>AAAAFF</color>
+      <color>FF55AA</color>
+      <color>FF55FF</color>
+      <color>FFAAAA</color>
+      <color>FFAAFF</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel1" filename="panel1.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>55AAFF</color>
+      <color>AAAAAA</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel2" filename="panel2.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AAAAAA</color>
+      <color>AAFFFF</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel3" filename="panel3.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AAAA55</color>
+      <color>AAAAAA</color>
+      <color>FFAA55</color>
+      <color>FFAAAA</color>
+      <color>FFFFAA</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel5" filename="panel5.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>55AAAA</color>
+      <color>AAAAAA</color>
+      <color>AAFFAA</color>
+      <color>AAFFFF</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel6" filename="panel6.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AAAAAA</color>
+      <color>FF5555</color>
+      <color>FFAAAA</color>
+      <color>FFFFAA</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel7" filename="panel7.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AA55AA</color>
+      <color>AAAAAA</color>
+      <color>AAAAFF</color>
+      <color>FFAAFF</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel8" filename="panel8.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AAAA00</color>
+      <color>AAAAAA</color>
+      <color>AAFFAA</color>
+      <color>FFFFAA</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel9" filename="panel9.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>55AAFF</color>
+      <color>AAAAAA</color>
+      <color>AAAAFF</color>
+      <color>AAFFFF</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel10" filename="panel10.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AAAAAA</color>
+      <color>FFAA00</color>
+      <color>FFAAAA</color>
+      <color>FFFFAA</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel11" filename="panel11.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>55AAFF</color>
+      <color>AAAAAA</color>
+      <color>AAFFFF</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel12" filename="panel12.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AA55FF</color>
+      <color>AAAAAA</color>
+      <color>AAFFFF</color>
+      <color>FFAAFF</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel13" filename="panel13.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>00AAAA</color>
+      <color>55AAAA</color>
+      <color>55FFAA</color>
+      <color>55FFFF</color>
+      <color>AAAAAA</color>
+      <color>AAFFAA</color>
+      <color>AAFFFF</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel14" filename="panel14.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>55AAFF</color>
+      <color>55FFFF</color>
+      <color>AAAAAA</color>
+      <color>AAAAFF</color>
+      <color>AAFFFF</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel15" filename="panel15.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AAAAAA</color>
+      <color>FF55AA</color>
+      <color>FFAA55</color>
+      <color>FFAAAA</color>
+      <color>FFFFAA</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel16" filename="panel16.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AAAAAA</color>
+      <color>AAAAFF</color>
+      <color>FFAAFF</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel17" filename="panel17.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AAAA55</color>
+      <color>AAAAAA</color>
+      <color>FFAA55</color>
+      <color>FFAAAA</color>
+      <color>FFFFAA</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel18" filename="panel18.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AAAA00</color>
+      <color>AAAA55</color>
+      <color>AAAAAA</color>
+      <color>AAFF00</color>
+      <color>AAFF55</color>
+      <color>AAFFAA</color>
+      <color>FFFF55</color>
+      <color>FFFFAA</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel19" filename="panel19.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AAAAAA</color>
+      <color>FFAA55</color>
+      <color>FFAAAA</color>
+      <color>FFAAFF</color>
+      <color>FFFFAA</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel20" filename="panel20.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>00AAAA</color>
+      <color>00AAFF</color>
+      <color>55AAFF</color>
+      <color>AAAAAA</color>
+      <color>AAAAFF</color>
+      <color>AAFFFF</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel21" filename="panel21.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>00AAAA</color>
+      <color>55AAAA</color>
+      <color>AAAAAA</color>
+      <color>AAAAFF</color>
+      <color>AAFF55</color>
+      <color>AAFFAA</color>
+      <color>AAFFFF</color>
+      <color>FFFFAA</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel22" filename="panel22.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AAAA55</color>
+      <color>AAAAAA</color>
+      <color>FFAA55</color>
+      <color>FFAAAA</color>
+      <color>FFFFAA</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel23" filename="panel23.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>00AAAA</color>
+      <color>55AA55</color>
+      <color>55AAAA</color>
+      <color>55FFAA</color>
+      <color>55FFFF</color>
+      <color>AAAAAA</color>
+      <color>AAFFAA</color>
+      <color>AAFFFF</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel24" filename="panel24.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>55AA55</color>
+      <color>55AAAA</color>
+      <color>AAAA55</color>
+      <color>AAAAAA</color>
+      <color>AAAAFF</color>
+      <color>AAFFAA</color>
+      <color>AAFFFF</color>
+      <color>FFFFAA</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel25" filename="panel25.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>00AAFF</color>
+      <color>00FFFF</color>
+      <color>55AAFF</color>
+      <color>55FFFF</color>
+      <color>AAAAAA</color>
+      <color>AAFFFF</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel26" filename="panel26.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AAAAAA</color>
+      <color>AAFF55</color>
+      <color>AAFFAA</color>
+      <color>FFFF55</color>
+      <color>FFFFAA</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel27" filename="panel27.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AAAAAA</color>
+      <color>FFAA00</color>
+      <color>FFAA55</color>
+      <color>FFAAAA</color>
+      <color>FFFFAA</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel28" filename="panel28.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>55AAFF</color>
+      <color>AAAAAA</color>
+      <color>AAAAFF</color>
+      <color>AAFFAA</color>
+      <color>AAFFFF</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel29" filename="panel29.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AAAAAA</color>
+      <color>AAAAFF</color>
+      <color>AAFFFF</color>
+      <color>FFAAFF</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel30" filename="panel30.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>55AAAA</color>
+      <color>55FFAA</color>
+      <color>AAAAAA</color>
+      <color>AAFFAA</color>
+      <color>AAFFFF</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel31" filename="panel31.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>55AA55</color>
+      <color>AAAA55</color>
+      <color>AAAAAA</color>
+      <color>AAFFAA</color>
+      <color>FFAAAA</color>
+      <color>FFFFAA</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+  <bitmap id="Panel32" filename="panel32.png" dithering="none">
+    <palette disableTransparency="true">
+      <color>000000</color>
+      <color>AAAAAA</color>
+      <color>AAFFAA</color>
+      <color>AAFFFF</color>
+      <color>FFAA55</color>
+      <color>FFAAAA</color>
+      <color>FFFFAA</color>
+      <color>FFFFFF</color>
+    </palette>
+  </bitmap>
+</drawables>
